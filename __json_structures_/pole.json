@@ -1,0 +1,5 @@
+{
+    "id" : "str",
+    "location" : "str - geojson",
+    "type" : "str - epc || mpt || other"
+}

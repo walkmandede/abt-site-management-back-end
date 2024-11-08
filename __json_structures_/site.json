@@ -1,0 +1,26 @@
+{
+    "id" : "str",
+    "siteId" : "str",
+    "customerId" : "str",
+    "poles" : [
+        {
+            "poleId" : "str",
+            "methods" : "str",
+            "image" : ""
+        }
+    ],
+    "FAT" : "str",
+    "port" : "int",
+    "images" : {
+        "f1" : "str",
+        "f7" : "str",
+        "h1" : "str",
+        "h11" : "str"
+    },
+    "dateTimes" : {
+        "receivedDateTime" : "str : time string",
+        "surveyOrderDateTime" : "str : time string",
+        "surveyedDateTime" : "str : time string",
+        "activationDateTime" : "str: time string"
+    }
+}

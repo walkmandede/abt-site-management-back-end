@@ -1,0 +1,5 @@
+{
+    "id" : "str",
+    "number" : "str",
+    "location" : "str - geojson"
+}

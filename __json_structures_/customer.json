@@ -1,0 +1,8 @@
+{
+    "id" : "str",
+    "circuitId" : "str",
+    "name" : "str",
+    "phone" : "str",
+    "address" : "str",
+    "location" : "str: geojson or csv latLng"
+}
